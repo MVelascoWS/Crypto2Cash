@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .headerLink{
+        @apply cursor-pointer  font-bold text-2xl ml-11 text-nearBlack transition duration-300 hover:text-[#A132BA] pt-4;
+    }
+    .headerOrder{
+        @apply font-bold text-base text-nearBlack py-3 px-5 text-center;
+    }
+    .tableIsoMetric{
+        @apply text-nearBlack text-base px-4 py-5 text-center  h-full align-middle ;
+    }
+    .mEntryText{
+        @apply text-nearBlack font-bold text-base  px-3 text-center h-full align-middle  ;
+    }
+    .mEntryOrder{
+        @apply text-button underline font-bold text-base  px-3 text-center h-full align-middle  ;
+    }
+}
