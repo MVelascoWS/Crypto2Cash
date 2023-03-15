@@ -24,6 +24,7 @@ but it also gives them visibility within the Crypto2Cash app so that more use th
 | What? | Link |
 |---|---|
 | Youtube | https://youtu.be/UJw-hz5MDkI |
+| Deck | https://www.canva.com/design/DAFdMfPdqtE/85SFNIQSVPLe7M2ywJFsag/view?utm_content=DAFdMfPdqtE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink |
 
 
 ## API Flow
