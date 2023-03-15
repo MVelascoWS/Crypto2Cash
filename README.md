@@ -23,7 +23,7 @@ but it also gives them visibility within the Crypto2Cash app so that more use th
 
 | What? | Link |
 |---|---|
-| Youtube | https://youtu.be/GNZ-rPG6Rx8 |
+| Youtube | https://youtu.be/UJw-hz5MDkI |
 
 
 ## API Flow
